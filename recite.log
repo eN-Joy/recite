@@ -1,0 +1,127 @@
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2020.2.26)  28 FEB 2020 15:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**recite
+(./recite.tex
+pLaTeX2e <2020-02-02>+2 (based on LaTeX2e <2020-02-02> patch level 4)
+L3 programming layer <2020-02-25> (/home/zhou3594/.tl2019/texmf-dist/tex/platex/base/tarticle.cls
+Document Class: tarticle 2020/01/03 v1.8e Standard pLaTeX class
+\c@@paper=\count166
+(/home/zhou3594/.tl2019/texmf-dist/tex/platex/base/tsize11.clo
+File: tsize11.clo 2020/01/03 v1.8e Standard pLaTeX file (size option)
+) (/home/zhou3594/.tl2019/texmf-dist/tex/platex/base/plext.sty
+Package: plext 2019/09/29 v1.2l pLaTeX package file (community edition)
+\@floatbox=\box61
+\floatwidth=\dimen150
+\floatheight=\dimen151
+\floatruletick=\dimen152
+\captionfloatsep=\dimen153
+\captionwidth=\dimen154
+\@captionbox=\box62
+LaTeX Info: Redefining \parbox on input line 333.
+\save@ybaselineshift=\dimen155
+\save@tbaselineshift=\dimen156
+\@picwd=\dimen157
+\rensujiskip=\skip47
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 619.
+\toclineskip=\dimen158
+\@lnumwidth=\dimen159
+\bibindent=\dimen160
+\heisei=\count175
+) (/home/zhou3594/.tl2019/texmf-dist/tex/platex/pxrubrica/pxrubrica.sty
+Package: pxrubrica 2018/08/16 v1.3c PX Japanese-style ruby
+ (/home/zhou3594/.tl2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\pxrr@cnta=\count176
+\pxrr@cntr=\count177
+\pxrr@dima=\dimen161
+\pxrr@boxa=\box63
+\pxrr@boxb=\box64
+\pxrr@boxr=\box65
+) (/home/zhou3594/.tl2019/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-23 L3 backend support: dvips
+\l__pdf_internal_box=\box66
+\g__pdf_backend_object_int=\count178
+\l__pdf_backend_content_box=\box67
+\l__pdf_backend_model_box=\box68
+\g__pdf_backend_annotation_int=\count179
+\g__pdf_backend_link_int=\count180
+\g__pdf_backend_link_sf_int=\count181
+) (./recite.aux)
+\openout1 = `recite.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ 《縦組モード》 (./gandan.tex
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+) (./mukade.tex) (./munaguruma.tex
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.47499> not available
+(Font)              size <5> substituted on input line 2.
+
+) (./okunohosomichi.tex [1
+
+]) (./nanohana.tex
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <7.2> not available
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <7.2> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <7.2> not available
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <7.2> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+ [2] [3] [4]) (./ishiusu.tex) (./ichou.tex [5]) (./akibare.tex) (./komoronaru.tex) (./amenimo.tex [6]) (./ooaso.tex) [7] (./recite.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.47499pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1326 strings out of 483006
+ 20677 string characters out of 5962005
+ 266639 words of memory out of 5000000
+ 16889 multiletter control sequences out of 15000+600000
+ 539739 words of font info for 55 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 30i,5n,31p,694b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on recite.dvi (7 pages, 32780 bytes).
