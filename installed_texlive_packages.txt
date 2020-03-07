@@ -1,0 +1,154 @@
+i adobemapping: Adobe cmap and pdfmapping files
+i amscls: AMS document classes for LaTeX
+i amsfonts: TeX fonts from the American Mathematical Society
+i amsmath: AMS mathematical facilities for LaTeX
+i anyfontsize: Select any font size in LaTeX
+i arphic: Arphic (Chinese) font packages
+i arphic-ttf: TrueType version of Chinese Arphic fonts
+i atbegshi: Execute stuff at \shipout time
+i atveryend: Hooks at the very end of a document
+i auxhook: Hooks for auxiliary files
+i babel: Multilingual support for Plain TeX or LaTeX
+i baekmuk: Baekmuk Korean TrueType fonts
+i bigintcalc: Integer calculations on very large numbers
+i bitset: Handle bit-vector datatype
+i booktabs: Publication quality tables in LaTeX
+i caption: Customising captions in floating environments
+i cjk: CJK language support
+i cjkpunct: Adjust locations and kerning of CJK punctuation marks
+i cm: Computer Modern fonts
+i cmap: Make PDF files searchable and copyable
+i cns: Chinese/Japanese/Korean bitmap fonts
+i ctex: LaTeX classes and packages for Chinese typesetting
+i dehyph: German hyphenation patterns for traditional orthography
+i dvipdfmx: An extended version of dvipdfm
+i dvipdfmx.x86_64-linux: x86_64-linux files of dvipdfmx
+i dvips: A DVI to PostScript driver
+i dvips.x86_64-linux: x86_64-linux files of dvips
+i ec: Computer modern fonts in T1 and TS1 encodings
+i elegantnote: Elegant LaTeX Template for Notes
+i enumitem: Control layout of itemize, enumerate, description
+i epstopdf-pkg: Call epstopdf "on the fly"
+i esint: Extended set of integrals for Computer Modern
+i etex: An extended version of TeX, from the NTS project
+i etexcmds: Avoid name clashes with e-TeX commands
+i etoolbox: e-TeX tools for LaTeX
+i euenc: Unicode font encoding definitions for XeTeX
+i extsizes: Extend the standard classes' size options
+i fancyhdr: Extensive control of page headers and footers in LaTeX2e
+i fandol: Four basic fonts for Chinese typesetting
+i fontaxes: Additional font axes for LaTeX
+i fonts-tlwg: Thai fonts for LaTeX from TLWG
+i fontspec: Advanced font selection in XeLaTeX and LuaLaTeX
+i footmisc: A range of footnote options
+i garuda-c90: TeX support (from CJK) for the garuda font
+i gbt7714: BibTeX implementation of China's bibliography style standard GB/T 7714-2015
+i geometry: Flexible and complete interface to document dimensions
+i gettitlestring: Clean up title references
+i glyphlist: Adobe Glyph List and TeX extensions
+i graphics: The LaTeX standard graphics bundle
+i graphics-cfg: Sample configuration files for LaTeX color and graphics
+i graphics-def: Colour and graphics option files
+i grfext: Manipulate the graphics package's list of extensions
+i grffile: Extended file name support for graphics (legacy package)
+i hologo: A collection of logos with bookmark support
+i hycolor: Implements colour for packages hyperref and bookmark
+i hyperref: Extensive support for hypertext in LaTeX
+i hyphen-base: core hyphenation support files
+i iftex: Am I running under pdfTeX, XeTeX or LuaTeX?
+i infwarerr: Complete set of information/warning/error message macros
+i intcalc: Expandable arithmetic operations with integers
+i ipaex: IPA (Japanese) fonts
+i jsclasses: Classes tailored for use with Japanese
+i kastrup: Convert numbers into binary, octal and hexadecimal
+i knuth-lib: A small library of Metafont sources
+i kpathsea: Path searching library for TeX-related files
+i kpathsea.x86_64-linux: x86_64-linux files of kpathsea
+i kvdefinekeys: Define keys for use in the kvsetkeys package
+i kvoptions: Key value format for package options
+i kvsetkeys: Key value parser with default handler support
+i l3backend: LaTeX3 backend drivers
+i l3kernel: LaTeX3 programming conventions
+i l3packages: High-level LaTeX3 concepts
+i latex: A TeX macro package that defines LaTeX
+i latex-base-dev: Development pre-release of the LaTeX kernel
+i latex-bin: LaTeX executables and man pages
+i latex-bin.x86_64-linux: x86_64-linux files of latex-bin
+i latex-fonts: A collection of fonts used in LaTeX distributions
+i latexconfig: configuration files for LaTeX-related formats
+i letltxmacro: Let assignment for LaTeX macros
+i listings: Typeset source code listings using LaTeX
+i lm: Latin modern fonts in outline formats
+i lstaddons: Add-on packages for listings: autogobble and line background
+i ltxcmds: Some LaTeX kernel commands for general use
+i luatex: The LuaTeX engine
+i luatex.x86_64-linux: x86_64-linux files of luatex
+i ms: Various LaTeX packages by Martin Schroder
+i mweights: Support for multiple-weight font packages
+i natbib: Flexible bibliography support
+i newtx: Alternative uses of the TX fonts, with improved metrics
+i norasi-c90: TeX support (from CJK) for the norasi font
+i oberdiek: A bundle of packages submitted by Heiko Oberdiek
+i palatino: URW "Base 35" font pack for LaTeX
+i pdfescape: Implements pdfTeX's escape features using TeX or e-TeX
+i pdftex: A TeX extension for direct creation of PDF
+i pdftex.x86_64-linux: x86_64-linux files of pdftex
+i pdftexcmds: LuaTeX support for pdfTeX utility functions
+i pgf: Create PostScript and PDF graphics in TeX
+i plain: The Plain TeX format
+i platex: pLaTeX2e and miscellaneous macros for pTeX
+i platex.x86_64-linux: x86_64-linux files of platex
+i psnfss: Font support for common PostScript fonts
+i ptex: A TeX system for publishing in Japanese
+i ptex-base: Plain TeX format for pTeX and e-pTeX
+i ptex-fontmaps: Font maps and configuration tools for Japanese/Chinese/Korean fonts with (u)ptex
+i ptex-fontmaps.x86_64-linux: x86_64-linux files of ptex-fontmaps
+i ptex-fonts: Fonts for use with pTeX
+i ptex.x86_64-linux: x86_64-linux files of ptex
+i ptex2pdf: Convert Japanese TeX documents to PDF
+i ptex2pdf.x86_64-linux: x86_64-linux files of ptex2pdf
+i pxrubrica: Ruby annotations according to JIS X 4051
+i refcount: Counter operations with label references
+i rerunfilecheck: Checksum based rerun checks on auxiliary files
+i scheme-infraonly: infrastructure-only scheme (no TeX at all)
+i silence: Selective filtering of error messages and warnings
+i stringenc: Converting a string between different encodings
+i symbol: URW "Base 35" font pack for LaTeX
+i tex: A sophisticated typesetting engine
+i tex-gyre: TeX Fonts extending freely available URW fonts
+i tex-ini-files: Model TeX format creation files
+i tex.x86_64-linux: x86_64-linux files of tex
+i texlive-scripts: TeX Live infrastructure programs
+i texlive-scripts.x86_64-linux: x86_64-linux files of texlive-scripts
+i texlive.infra: basic TeX Live infrastructure
+i texlive.infra.x86_64-linux: x86_64-linux files of texlive.infra
+i texliveonfly: On-the-fly download of missing TeX live packages
+i texliveonfly.x86_64-linux: x86_64-linux files of texliveonfly
+i tipa: Fonts and macros for IPA phonetics characters
+i titlesec: Select alternative section titles
+i tools: The LaTeX standard tools bundle
+i ttfutils: convert TrueType to TFM and PK fonts
+i ttfutils.x86_64-linux: x86_64-linux files of ttfutils
+i uhc: Fonts for the Korean language
+i ulem: Package for underlining
+i unicode-data: Unicode data and loaders for TeX
+i uniquecounter: Provides unlimited unique counter
+i uplatex: pLaTeX2e and miscellaneous macros for upTeX
+i uplatex.x86_64-linux: x86_64-linux files of uplatex
+i uptex: Unicode version of pTeX
+i uptex-base: Plain TeX formats and documents for upTeX
+i uptex-fonts: Fonts for use with upTeX
+i uptex.x86_64-linux: x86_64-linux files of uptex
+i url: Verbatim with URL-sensitive line breaks
+i verse: Aids for typesetting simple verse
+i wadalab: Wadalab (Japanese) font packages
+i xcolor: Driver-independent color extensions for LaTeX and pdfLaTeX
+i xecjk: Support for CJK documents in XeLaTeX
+i xetex: An extended variant of TeX for use with Unicode sources
+i xetex.x86_64-linux: x86_64-linux files of xetex
+i xetexconfig: crop.cfg for XeLaTeX
+i xkeyval: Extension of the keyval package
+i xpatch: Extending etoolbox patching commands
+i xunicode: Generate Unicode characters from accented glyphs
+i zapfding: URW "Base 35" font pack for LaTeX
+i zhnumber: Typeset Chinese representations of numbers

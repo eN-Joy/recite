@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2020.2.26)  28 FEB 2020 15:00
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2020.2.26)  4 MAR 2020 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -63,7 +63,8 @@ File: l3backend-dvips.def 2020-02-23 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count179
 \g__pdf_backend_link_int=\count180
 \g__pdf_backend_link_sf_int=\count181
-) (./recite.aux)
+)
+No file recite.aux.
 \openout1 = `recite.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -84,7 +85,7 @@ LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
- 《縦組モード》 (./gandan.tex
+《縦組モード》 (./gandan.tex
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <14.4> not available
 (Font)              Font shape `JT1/mc/bx/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
@@ -116,8 +117,8 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 1326 strings out of 483006
- 20677 string characters out of 5962005
+ 1324 strings out of 483006
+ 20655 string characters out of 5962005
  266639 words of memory out of 5000000
  16889 multiletter control sequences out of 15000+600000
  539739 words of font info for 55 fonts, out of 8000000 for 9000
